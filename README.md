@@ -1,5 +1,5 @@
-#H1 MyFirstRepo
-##H2 Logan Martin
+# H1MyFirstRepo
+## H2Logan Martin
 
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
