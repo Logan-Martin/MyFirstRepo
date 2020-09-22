@@ -5,4 +5,4 @@
 
 [My Onshape Documents](https://cvilleschools.onshape.com/documents?nodeId=1&resourceType=filter)
 
-[title](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Red.svg/1024px-Red.svg.png)
+[Red](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Red.svg/1024px-Red.svg.png)
