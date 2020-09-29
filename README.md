@@ -1,5 +1,5 @@
-# MyFirstRepo
-## Logan Martin
+# MyFirstRepo - Engineering 2
+## by. Logan Martin
 
 [Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
